@@ -15,6 +15,8 @@ Once the installation is done, you can open your project folder:
 ## Usage
 <img src = 'example.png' width="440" height="300"> 
 
+[Live demo](https://anyapages.com/to-do-list-app.html)
+
 ## Available Scripts
 
 In the project directory, you can run:
