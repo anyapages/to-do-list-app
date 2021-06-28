@@ -13,7 +13,7 @@ Once the installation is done, you can open your project folder:
 
 
 ## Usage
-<img src = 'example.png' width="340" height="290"> 
+<img src = 'example.png' width="440" height="300"> 
 
 ## Available Scripts
 
