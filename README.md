@@ -1,6 +1,6 @@
 # To-Do List App 🎯
 
-To-Do List App is a sample to-do list app build with the React/ReactDOM framework.
+To-Do List App is a sample to-do list app built with the React/ReactDOM framework.
 
 ## Create an App
 You will need to have Node 10.16.0 or later version on your local development machine. 
@@ -13,7 +13,9 @@ Once the installation is done, you can open your project folder:
 
 
 ## Usage
-<img src = 'example.png' width="340" height="290"> 
+<img src = 'example.png' width="440" height="300"> 
+
+[Live demo](https://anyapages.com/to-do-list-app.html)
 
 ## Available Scripts
 
