@@ -11,7 +11,7 @@ function App() {
       isCompleted: false,
     },
     {
-      text: 'Meet friend for lunch',
+      text: 'Meet friends for lunch',
       isCompleted: false,
     },
     {
@@ -38,7 +38,7 @@ function App() {
     <div className="app">
       <div className="todo-list" >
         <header>
-          <h1>My Tasks 🎯</h1>
+          <h1>To-Do List 🎯</h1>
         </header>
         {todos.map((todo, i) => (
           <Todo key={i} index={i} todo={todo} remove={removeTodo}/>

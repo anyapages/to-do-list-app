@@ -5,7 +5,7 @@ function Todo({todo,index,remove}){
     console.log('Ping:',index);
     remove(index);
   }
-  return <div className="todo" onClick={handle}>{todo.text} (✓)</div>
+  return <div className="todo" onClick={handle}>{todo.text} (-)</div>
 };
 
 export default Todo;

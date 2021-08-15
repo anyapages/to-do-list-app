@@ -17,7 +17,7 @@ function TodoForm({addTodo}){
         type="text"
         className="input"
         value={value}
-        placeholder="What needs to be done?" style={{ color: 'crimson' }}
+        placeholder="What should I do today?" style={{ color: 'crimson' }}
         onChange={e => setValue(e.target.value)} />
     </form>
   );
